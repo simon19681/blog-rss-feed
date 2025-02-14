@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-    <channel>
-        <title>Simon Faulkner's Blog</title>
-        <link>https://sfaulkner1968.systeme.io/blog</link>
-        <description>Affiliate Marketing &amp; Online Business Growth</description>
-        <language>en-us</language>
+   <channel>
+       <title>Simon Faulkner's Blog</title>
+       <link>https://sfaulkner1968.systeme.io/blog</link>
+       <description>Affiliate Marketing &amp; Online Business Growth</description>
+       <language>en-us</language>
 
-        <item>
-            <title>Learn How To Generate Leads With Affiliate Marketing</title>
-            <link>https://llclickpro.com/vtkf94vs/</link>
-            <description>This blog post discusses key strategies for generating leads using affiliate marketing. Get tips on automation, traffic generation, and increasing conversions.</description>
-            <pubDate>Fri, 16 Feb 2025 08:00:00 GMT</pubDate>
-        </item>
+       <item>
+           <title>Learn How To Generate Leads With Affiliate Marketing</title>
+           <link>https://llclickpro.com/vtkf94vs/</link>
+           <description>This blog post discusses key strategies for generating leads using affiliate marketing. Get tips on automation, traffic generation, and increasing conversions.</description>
+           <pubDate>Fri, 16 Feb 2025 08:00:00 GMT</pubDate>
+       </item>
 
-        <item>
-            <title>How To Use Email Marketing To Build a Passive Income</title>
-            <link>https://llclickpro.com/vtkf94vs/</link>
-            <description>Discover how email marketing can drive passive income and why automation is key for scaling your online business.</description>
-            <pubDate>Mon, 12 Feb 2025 08:00:00 GMT</pubDate>
-        </item>
+       <item>
+           <title>How To Use Email Marketing To Build a Passive Income</title>
+           <link>https://llclickpro.com/vtkf94vs/</link>
+           <description>Discover how email marketing can drive passive income and why automation is key for scaling your online business.</description>
+           <pubDate>Mon, 12 Feb 2025 08:00:00 GMT</pubDate>
+       </item>
 
-        <item>
-            <title>The Power of LeadsLeap Co-op Traffic</title>
-            <link>https://llclickpro.com/vtkf94vs/</link>
-            <description>Understanding the LeadsLeap Co-op and how to maximize traffic for your online business.</description>
-            <pubDate>Wed, 7 Feb 2025 08:00:00 GMT</pubDate>
-        </item>
-        
-    </channel>
+       <item>
+           <title>The Power of LeadsLeap Co-op Traffic</title>
+           <link>https://llclickpro.com/vtkf94vs/</link>
+           <description>Understanding the LeadsLeap Co-op and how to maximize traffic for your online business.</description>
+           <pubDate>Wed, 7 Feb 2025 08:00:00 GMT</pubDate>
+       </item>
+   </channel>
 </rss>
-
